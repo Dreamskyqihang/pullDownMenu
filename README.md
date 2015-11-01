@@ -7,10 +7,6 @@
 
 [![预览图]](http://www.cnblogs.com/Seeulater/)
 [预览图]:https://github.com/PerfectShen/WSDropMenuView/blob/master/dropMenu.gif "欢迎私信我哦"
-[我的博客](http://www.cnblogs.com/Seeulater/ "欢迎私信我哦")
-
-
- [how to use?](http://www.cnblogs.com/Seeulater/ "欢迎私信我哦")
  
   
 初始化对象
